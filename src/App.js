@@ -13,6 +13,7 @@ class App extends Component {
         <main>
           <div>Hello world!!!</div>
           <div>Hello world!!!</div>
+          <div>Hi mother fuckeker</div>
         </main>
         <p className="App-intro">
           To get startegd, edit <code>src/App.js</code> and save to reload.
